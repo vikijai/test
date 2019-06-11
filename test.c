@@ -7,7 +7,7 @@ if(num==0)
 {
 printf("Zero");
 }
-else if(num%2==0){
+else if(num>0){
 printf("Positive");
 }
 else
