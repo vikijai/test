@@ -1,2 +1,2 @@
-txt = input()[::-1]
-print(txt)
+char = input()[::-1]
+print(char)
